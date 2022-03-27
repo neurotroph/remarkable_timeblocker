@@ -8,4 +8,5 @@ This repository contains a custom template if you want to do time block planning
 * some space for quick notes & tasks, you need to write down
 
 ## Installation
-... still missing ...
+> For now, please see this documentation: https://remarkablewiki.com/tips/templates
+> I will add an quick step-by-step installation guide later...
